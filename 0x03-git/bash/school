@@ -1,1 +1,3 @@
-echo "The school is open"
+#!/bin/bash
+<<<<<<< HEAD
+echo "The school is open!"
